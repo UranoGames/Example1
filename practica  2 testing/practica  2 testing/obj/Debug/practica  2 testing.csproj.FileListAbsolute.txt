@@ -1,0 +1,29 @@
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.exe
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\obj\Debug\practica__2_testing.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\obj\Debug\practica__2_testing.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.exe
+c:\users\usuario\documents\visual studio 2015\Projects\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.pdb
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.exe.config
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.exe
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.pdb
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\obj\Debug\practica__2_testing.Form1.resources
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\obj\Debug\practica__2_testing.Properties.Resources.resources
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csproj.GenerateResource.cache
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.exe
+C:\Users\jacob\Desktop\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.pdb
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.exe.config
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.exe
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\bin\Debug\practica  2 testing.pdb
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csproj.AssemblyReference.cache
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\obj\Debug\practica__2_testing.Form1.resources
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\obj\Debug\practica__2_testing.Properties.Resources.resources
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csproj.GenerateResource.cache
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.exe
+C:\Users\jacob\Desktop\Nueva carpeta\practica  2 testing\practica  2 testing\obj\Debug\practica  2 testing.pdb
